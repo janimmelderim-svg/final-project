@@ -1,7 +1,7 @@
 import json
 import os
 
-data_file=expenses.json
+data_file = "expenses.json"
 
 def load_expenses():
     """ielādē izdevumus no json faila"""
