@@ -1,14 +1,4 @@
-
-
-categories = [
-    "Dzīvokļa maksājumi"
-    "Ēdiens"
-    "Izklaide"
-    "Veselība"
-    "Transports"
-    "Mājai"
-    "Cits"
-]
+from datetime import datetime
 
 def sum_total(expenses):
     """"
