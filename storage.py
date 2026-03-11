@@ -18,7 +18,7 @@ def save_expenses(expenses):
     """saglabā izdevumus json failā"""
     try:
         with open(data_file, "w", encoding="utf-8") as f:
-            json.dump(expenses, f, ensure_ascii=False, indent=2)
+            json.dump(expenses, f, ensure_ascii=False, indent=4)
         return True
     except Exception as e:
         return False
