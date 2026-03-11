@@ -28,5 +28,11 @@
         "kategorija": "Cits",
         "summa": 50.0,
         "apraksts": "davana"
+    },
+    {
+        "datums": "2025-01-01",
+        "kategorija": "Mājai",
+        "summa": 10.0,
+        "apraksts": "galds"
     }
 ]
