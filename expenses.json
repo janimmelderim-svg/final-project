@@ -1,0 +1,32 @@
+[
+    {
+        "datums": "2026-03-11",
+        "kategorija": "Dzīvokļa maksājumi",
+        "summa": 100.0,
+        "apraksts": "ire"
+    },
+    {
+        "datums": "2026-02-01",
+        "kategorija": "Izklaide",
+        "summa": 20.0,
+        "apraksts": "fun"
+    },
+    {
+        "datums": "2026-04-01",
+        "kategorija": "Veselība",
+        "summa": 50.0,
+        "apraksts": "zobarsts"
+    },
+    {
+        "datums": "2026-01-01",
+        "kategorija": "Transports",
+        "summa": 70.0,
+        "apraksts": "degviela"
+    },
+    {
+        "datums": "2026-06-20",
+        "kategorija": "Cits",
+        "summa": 50.0,
+        "apraksts": "davana"
+    }
+]
